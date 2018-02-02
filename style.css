@@ -1,0 +1,54 @@
+.redButton{
+  float: left;
+  margin: 2px;
+}
+
+.blueButton{
+  float: left;
+  margin: 2px;
+}
+
+.greenButton{
+  float: left;
+  margin: 2px;
+}
+
+.yellowButton{
+  float:left;
+  margin: 2px;
+}
+
+
+
+.redClass {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
+.blueClass {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
+.greenClass {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
+.yellowClass {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
